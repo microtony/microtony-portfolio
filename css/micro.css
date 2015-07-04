@@ -1,0 +1,30 @@
+section {
+  padding: 60px 0 40px;
+  border-bottom: 1px solid #AAA;
+  margin: 0;
+  font-size: 15px;
+}
+
+.project-image img {
+  width: 100%;
+}
+ul.project-meta {
+  list-style-type: none;
+  padding-left: 0;
+  margin: 12px 0;
+}
+ul.project-meta li {
+  float: left;
+  color: #888;
+  font-size: 13px;
+  margin: 3px 15px 3px 0;
+}
+.microtony ul.project-meta li {
+  font-size: 14px;
+}
+ul.project-meta a {
+  color: #888;
+}
+.project-description {
+  margin: 18px 0;
+}
